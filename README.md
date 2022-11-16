@@ -1,2 +1,4 @@
 # Gocial
-Gocial repo
+Gocial is a place to
+ talk and play games
+ with your friends!
